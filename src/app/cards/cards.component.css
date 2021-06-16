@@ -1,0 +1,17 @@
+h3,p{
+    margin: 0;
+    padding: 0;
+}
+.card{
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 10px;
+}
+.card:hover{
+    border-bottom: 2px solid black;
+    border-left: 3px solid black;
+}
+.card-image{
+    text-align: center;
+}
